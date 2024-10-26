@@ -1,6 +1,3 @@
-# Code obtained from Github https://github.com/HebaElwazzan/Sorting-Algorithms-Runtime/blob/master/plotting.py
-# Code modified to include only bubble sort and quick sort algorithms
-
 from matplotlib import pyplot as plt
 import random
 import time
