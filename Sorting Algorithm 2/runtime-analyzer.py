@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# code obtained from Github from https://github.com/leeshibley/runtime-analyzer/blob/master/runtime-analyzer.py
-# code modified partially to include only selection and quick sort and increase the length of the array and the maximum number possible in the array
-
 import random
 import time
 import sys
