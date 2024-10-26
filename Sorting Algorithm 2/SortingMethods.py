@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-# code obtained from Github https://github.com/leeshibley/runtime-analyzer/blob/master/SortingMethods.py
-# code partially modified to include only selection sort and quick sort classes that self implement the algorithms
-
 """A class of self-implemented sorting algorithms, including:
     * Selection Sort
     * Quick Sort
