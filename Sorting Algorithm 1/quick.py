@@ -1,5 +1,3 @@
-# code for quick sort algorithm obtained from Github https://github.com/HebaElwazzan/Sorting-Algorithms-Runtime/blob/master/quick.py
-
 def partition(array, first, last):  # function to split array into two parts (s1 < pivot and s2 >= pivot) and
     # determine place of pivot
     last_s1 = first  # sets end of s1
