@@ -1,5 +1,5 @@
 # running the Bubble sort and Quick sort algorithm here whilst also running the plotting file to plot the runtime performance
-# code obtained from Github https://github.com/HebaElwazzan/Sorting-Algorithms-Runtime/blob/master/main.py
+
 import plotting
 import sys
 
